@@ -1,0 +1,11 @@
+{
+  "name": "qimg-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^9.0.0",
+    "pureimage": "^0.3.8"
+  }
+}
